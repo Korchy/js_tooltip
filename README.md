@@ -14,6 +14,7 @@ Usage:
 - Copy 2 files to site directory
 
 include into *.html:
+
   &lt;link href="tooltip.css" type=text/css rel=stylesheet&qt;
   &lt;script type="text/javascript" src="tooltip.js"&tl;&qt;/script&qt;
   
