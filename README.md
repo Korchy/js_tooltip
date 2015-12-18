@@ -16,5 +16,5 @@ Usage:
 include into *.html:
 
   &lt;link href="tooltip.css" type=text/css rel=stylesheet&gt;<br>
-  &lt;script type="text/javascript" src="tooltip.js"&lt;&gt;/script&gt;<p>
+  &lt;script type="text/javascript" src="tooltip.js"&gt;&lt;/script&gt;<p>
   &lt;img onmouseover="ShowToolTip(this, event, 'ToolTipText');" onmouseout="HideToolTip(this);" src='XXX.jpg'&gt;
